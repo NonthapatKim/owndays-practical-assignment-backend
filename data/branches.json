@@ -1,0 +1,237 @@
+[
+  {
+    "id": "siam-center",
+    "name_th": "สยามเซ็นเตอร์",
+    "name_en": "Siam Center"
+  },
+  {
+    "id": "central-world",
+    "name_th": "เซ็นทรัลเวิลด์",
+    "name_en": "CentralWorld"
+  },
+  {
+    "id": "gaysorn-village",
+    "name_th": "เกษรวิลเลจ",
+    "name_en": "Gaysorn Village"
+  },
+  {
+    "id": "park-silom",
+    "name_th": "ปาร์ค สีลม",
+    "name_en": "Park Silom"
+  },
+  {
+    "id": "iconsiam",
+    "name_th": "ไอคอนสยาม",
+    "name_en": "ICONSIAM"
+  },
+  {
+    "id": "central-rama-3",
+    "name_th": "เซ็นทรัล พระราม 3",
+    "name_en": "Central Rama 3"
+  },
+  {
+    "id": "terminal-21-rama-3",
+    "name_th": "เทอร์มินอล 21 พระราม 3",
+    "name_en": "Terminal 21 Rama 3"
+  },
+  {
+    "id": "marche-thonglor",
+    "name_th": "มาร์เช่ ทองหล่อ",
+    "name_en": "Marche' Thonglor"
+  },
+  {
+    "id": "gateway-bangsue",
+    "name_th": "เกตเวย์ บางซื่อ",
+    "name_en": "Gateway at Bangsue"
+  },
+  {
+    "id": "central-pinklao",
+    "name_th": "เซ็นทรัล ปิ่นเกล้า",
+    "name_en": "Central Pinklao"
+  },
+  {
+    "id": "central-eastville",
+    "name_th": "เซ็นทรัล อีสต์วิลล์",
+    "name_en": "Central Eastville"
+  },
+  {
+    "id": "seacon-bangkae",
+    "name_th": "ซีคอน บางแค",
+    "name_en": "Seacon Bangkae"
+  },
+  {
+    "id": "the-mall-bangkae",
+    "name_th": "เดอะมอลล์ บางแค",
+    "name_en": "The Mall Bangkae"
+  },
+  {
+    "id": "seacon-square",
+    "name_th": "ซีคอนสแควร์ ศรีนครินทร์",
+    "name_en": "Seacon Square"
+  },
+  {
+    "id": "central-rama-2",
+    "name_th": "เซ็นทรัล พระราม 2",
+    "name_en": "Central Rama 2"
+  },
+  {
+    "id": "central-ramindra",
+    "name_th": "เซ็นทรัล รามอินทรา",
+    "name_en": "Central Ramindra"
+  },
+  {
+    "id": "fashion-island",
+    "name_th": "แฟชั่นไอส์แลนด์",
+    "name_en": "Fashion Island"
+  },
+  {
+    "id": "true-digital-park",
+    "name_th": "ทรูดิจิตอลพาร์ค",
+    "name_en": "True Digital Park"
+  },
+  {
+    "id": "makro-sri-ayutthaya",
+    "name_th": "แม็คโคร ศรีอยุธยา",
+    "name_en": "Makro Sri Ayutthaya"
+  },
+  {
+    "id": "central-rama-9",
+    "name_th": "เซ็นทรัล พระราม 9",
+    "name_en": "Central Rama 9"
+  },
+  {
+    "id": "one-bangkok",
+    "name_th": "วัน แบงค็อก",
+    "name_en": "One Bangkok"
+  },
+  {
+    "id": "central-westgate",
+    "name_th": "เซ็นทรัล เวสต์เกต",
+    "name_en": "Central Westgate"
+  },
+  {
+    "id": "zpell-future-park",
+    "name_th": "สเปลล์",
+    "name_en": "Zpell @ Future Park"
+  },
+  {
+    "id": "central-westville",
+    "name_th": "เซ็นทรัล เวสต์วิลล์",
+    "name_en": "Central Westville"
+  },
+  {
+    "id": "central-salaya",
+    "name_th": "เซ็นทรัล ศาลายา",
+    "name_en": "Central Salaya"
+  },
+  {
+    "id": "central-village",
+    "name_th": "เซ็นทรัล วิลเลจ",
+    "name_en": "Central Village"
+  },
+  {
+    "id": "central-nakhon-pathom",
+    "name_th": "เซ็นทรัล นครปฐม",
+    "name_en": "Central Nakhon Pathom"
+  },
+  {
+    "id": "mega-bangna",
+    "name_th": "เมกาบางนา",
+    "name_en": "Mega Bangna"
+  },
+  {
+    "id": "central-mahachai",
+    "name_th": "เซ็นทรัล มหาชัย",
+    "name_en": "Central Mahachai"
+  },
+  {
+    "id": "siam-premium-outlets",
+    "name_th": "สยาม พรีเมี่ยม เอาท์เล็ต",
+    "name_en": "Siam Premium Outlets"
+  },
+  {
+    "id": "central-ayutthaya",
+    "name_th": "เซ็นทรัล อยุธยา",
+    "name_en": "Central Ayutthaya"
+  },
+  {
+    "id": "v-square-nakhon-sawan",
+    "name_th": "วี-สแควร์ นครสวรรค์",
+    "name_en": "V-SQUARE Nakhon Swan"
+  },
+  {
+    "id": "terminal-21-pattaya",
+    "name_th": "เทอร์มินอล 21 พัทยา",
+    "name_en": "Terminal 21 Pattaya"
+  },
+  {
+    "id": "central-si-racha",
+    "name_th": "เซ็นทรัล ศรีราชา",
+    "name_en": "Central Si Racha"
+  },
+  {
+    "id": "central-rayong",
+    "name_th": "เซ็นทรัล ระยอง",
+    "name_en": "Central Rayong"
+  },
+  {
+    "id": "central-chanthaburi",
+    "name_th": "เซ็นทรัล จันทบุรี",
+    "name_en": "Central Chanthaburi"
+  },
+  {
+    "id": "the-mall-korat",
+    "name_th": "เดอะ มอลล์ โคราช",
+    "name_en": "The Mall Korat"
+  },
+  {
+    "id": "central-khonkaen",
+    "name_th": "เซ็นทรัล ขอนแก่น",
+    "name_en": "Central Khonkaen"
+  },
+  {
+    "id": "robinson-buriram",
+    "name_th": "โรบินสัน บุรีรัมย์",
+    "name_en": "Robinson Buriram"
+  },
+  {
+    "id": "central-ubon",
+    "name_th": "เซ็นทรัล อุบล",
+    "name_en": "Central Ubon"
+  },
+  {
+    "id": "central-chiangmai",
+    "name_th": "เซ็นทรัล เชียงใหม่",
+    "name_en": "Central Chiangmai"
+  },
+  {
+    "id": "central-chiangrai",
+    "name_th": "เซ็นทรัล เชียงราย",
+    "name_en": "Central Chiangrai"
+  },
+  {
+    "id": "central-phuket-floresta",
+    "name_th": "เซ็นทรัล ภูเก็ต ฟลอเรสต้า",
+    "name_en": "Central Phuket Floresta"
+  },
+  {
+    "id": "central-samui",
+    "name_th": "เซ็นทรัล สมุย",
+    "name_en": "Central Samui"
+  },
+  {
+    "id": "central-nakhon-si",
+    "name_th": "เซ็นทรัล นครศรี",
+    "name_en": "Central Nakhon Si"
+  },
+  {
+    "id": "central-hatyai",
+    "name_th": "เซ็นทรัล หาดใหญ่",
+    "name_en": "Central Hatyai"
+  },
+  {
+    "id": "robinson-ratchaburi",
+    "name_th": "โรบินสัน ราชบุรี",
+    "name_en": "Robinson Ratchaburi"
+  }
+]
